@@ -1,0 +1,39 @@
+{
+    "data":[
+        {
+            "id": "1",
+            "name": "1 star",
+            "url": ""
+        },
+        {
+            "id": "2",
+            "name": "2 star",
+            "url": ""
+        },
+        {
+            "id": "3",
+            "name": "3 star",
+            "url": ""
+        },
+        {
+            "id": "4",
+            "name": "%15 discount for whole bean coffes",
+            "url": ""
+        },
+        {
+            "id": "5",
+            "name": "%20 discount for cakes",
+            "url": ""
+        },
+        {
+            "id": "5",
+            "name": "%20 discount for morning pastries",
+            "url": ""
+        },
+        {
+            "id": "5",
+            "name": "A Reward Starbucks Refresha",
+            "url": ""
+        }
+    ]
+}
